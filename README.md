@@ -11,3 +11,6 @@ Conditional Variational Auto Encoder : Used to obtain conditoned 3D point clouds
 In this section we will discuss about two architectures implemented for the point cloud generation.
 
 # 1. Principal Component Analysis (PCA) + Auto-Encoder
+
+
+![architecture_pca (1)](https://github.com/user-attachments/assets/7c009ed9-6217-4708-b4bd-769d76d6b68c)
