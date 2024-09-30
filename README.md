@@ -38,7 +38,7 @@ Results from PCA Varied, first row represents chair type1 and second row of type
 
 ## Results from C-VAE (Architecture 2)
 
-| ![Swivel legs](![Swivel](https://github.com/user-attachments/assets/8ca0eea6-51fe-4b79-8def-939c82d4b949)) | ![Cantilever legs](![Cantilever](https://github.com/user-attachments/assets/09e54b48-9111-4fc1-a029-4ab8dfddbbec)
+| ![Swivel legs](![Swivel](https://github.com/Jatinkalal/IM3D/blob/main/Images/Swivel.gif) | ![Cantilever legs](![Cantilever](https://github.com/Jatinkalal/IM3D/blob/main/Images/Cantilever.gif)
 ) | 
 |:--------------------------:|:--------------------------:|
 | Here the conditonal vector was to generate ***"Swivel legs"*** during the inference from a random noise vector          | Here the conditon was to generate ***"Cantilever legs"*** during the inference from a random noise vector.          
