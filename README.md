@@ -5,3 +5,9 @@ This project focuses on reconstructing 3D point clouds from single-view RGB imag
 
 PCA + AutoEncoder: Used to manipulate the parameters of learned latent vector towards generating 3D point clouds, but did not allow conditoned generation.
 Conditional Variational Auto Encoder : Used to obtain conditoned 3D point clouds by conditoning one hot encoded vector in the latent space.
+
+
+# System Architecture
+In this section we will discuss about two architectures implemented for the point cloud generation.
+
+# 1. Principal Component Analysis (PCA) + Auto-Encoder
